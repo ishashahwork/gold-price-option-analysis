@@ -1,0 +1,16 @@
+# Operating system and spreadsheet temporary files
+.DS_Store
+~$*
+*.tmp
+
+# Local course materials and unrelated practice files
+/group_assignment.pdf
+/optional_individual_exercises.pdf
+/Confidence Intervals Examples.xlsx
+
+# Common local secrets and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
